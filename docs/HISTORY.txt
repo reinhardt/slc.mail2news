@@ -1,0 +1,24 @@
+Changelog
+=========
+
+1.0.3 (unreleased)
+------------------
+
+- Nothing changed yet.
+
+
+1.0.2 (2011-06-23)
+------------------
+
+- changed format of created news item [blachnik, reinhardt]
+
+1.0.1 (2011-06-15)
+------------------
+
+- removed sender from title of news item [blachnik, reinhardt]
+
+
+1.0 (2011-03-28)
+----------------
+
+- Initial release
