@@ -1,0 +1,2 @@
+graft src/slc
+include *.cfg *.rst *.in
