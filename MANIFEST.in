@@ -1,2 +1,3 @@
 graft src/slc
+recursive-include docs *
 include *.cfg *.rst *.in
