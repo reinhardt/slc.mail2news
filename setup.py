@@ -25,12 +25,16 @@ setup(name='slc.mail2news',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
+          'slc.zopescript',
       ],
       entry_points="""
       # -*- Entry points: -*-
 
       [z3c.autoinclude.plugin]
       target = plone
+
+      [console_scripts]
+      mail_handler = slc.mail2news.scripts:mail_handler
       """,
       setup_requires=["PasteScript"],
       paster_plugins = ["ZopeSkel"],
