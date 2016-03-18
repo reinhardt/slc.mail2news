@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.3 (unreleased)
+1.0.3 (2016-03-18)
 ------------------
 
 - added mail_handler console script [reinhardt]
