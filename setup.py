@@ -36,6 +36,4 @@ setup(name='slc.mail2news',
       [console_scripts]
       mail_handler = slc.mail2news.scripts:mail_handler
       """,
-      setup_requires=["PasteScript"],
-      paster_plugins = ["ZopeSkel"],
       )
